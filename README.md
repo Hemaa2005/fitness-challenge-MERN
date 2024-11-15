@@ -7,4 +7,6 @@ The Fitness Challenge Tracker is a comprehensive web application that allows use
 * **Recipe and Nutrition Search**: Users can search for recipes and nutritional values of specific foods to make informed dietary choices.
 * **Calorie Tracking for Workouts**: Search and view calorie burn estimates for various workouts to better track energy expenditure.
 
-**Contributor:** @[dhanush02052005](https://github.com/dhanush02052005/)
+**Contributors:**  
+* @[dhanush02052005](https://github.com/dhanush02052005/)
+* @[Dharaneesh AN](https://github.com/DharaneeshAN/)
